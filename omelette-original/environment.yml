@@ -1,0 +1,26 @@
+name: omelette
+channels:
+  - pyg
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=10.2
+  - pyg
+  - pytorch-lightning
+  - maturin
+  - captum
+  - gym
+  - torchmetrics
+  - matplotlib
+  - pandas
+  - seaborn
+  - scipy
+variables:
+- TF_ENABLE_ONEDNN_OPTS: 0
