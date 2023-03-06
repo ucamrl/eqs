@@ -6,7 +6,7 @@
 
 ## Omelette
 
-see: https://www.cl.cam.ac.uk/~ey204/pubs/MPHIL\_P3/2022\_Zak.pdf
+see: https://www.cl.cam.ac.uk/~ey204/pubs/MPHIL_P3/2022_Zak.pdf
 
 ## MCTS-GEB
 
